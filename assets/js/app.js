@@ -18,7 +18,7 @@ let header = $(`
    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
    <li class="nav-item"><a class="nav-link" href="experience.html">Experience</a></li>
    <li class="nav-item"><a class="nav-link" href="projects.html">Projects</a></li>
-   <li class="nav-item"><a class="nav-link" href="research.html">Research</a></li>
+   <li class="nav-item"><a class="nav-link" href="research.html">Blog</a></li>
    <li class="nav-item"><a class="nav-link" href="education.html">Education</a></li>
   </ul>
 </div>
@@ -29,7 +29,7 @@ let footer = $(`
   <div class="container p-4">
     <div class="row">
       <div class="col-lg-6 col-md-12 mb-4 mb-md-0 justify-content-center">
-        <p class="tag" >"Develop a passion for learning. If you do, you will never cease to grow."
+        <p class="tag" >"achievement can not be achieved without enthusiasm."
         </p>
           <div class="rounded-social-buttons tag">
             <a class="social-button twitter" href="#" target="_blank"><i class="fab fa-twitter"></i></a>

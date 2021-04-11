@@ -1,4 +1,42 @@
- @media only screen and (max-width: 1140px) {
+.skills {
+  background-color: #f2f2f2;
+  border: 2px solid #0070ef;
+  margin-bottom: 25px;
+  -webkit-box-shadow: 0px 22px 87px -24px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 22px 87px -24px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 22px 87px -24px rgba(0, 0, 0, 0.75);
+}
+
+.skills li {
+  list-style-type: none;
+  font-family: 'Open Sans';
+  font-weight: 300;
+  font-size: 12pt;
+  color: #FFF;
+  background-color: #0070ef;
+  padding: 12px 60px 12px 30px;
+  margin-left: 0px;
+  margin-bottom: 20px;
+}
+
+.skill-lists {
+  margin-top: 22px;
+  width: 100%;
+}
+
+.left {
+  margin-left: 23px;
+  display: inline-block;
+  background-color: #f2f2f2;
+  margin-bottom: 25px;
+}
+
+.right {
+  margin-left: 20px;
+  display: inline-block;
+}
+
+@media only screen and (max-width: 1140px) {
     .skills li {
       display: block;
     }

@@ -9,7 +9,6 @@
 
 .skills li {
   list-style-type: none;
-  font-family: 'Open Sans';
   font-weight: 300;
   font-size: 12pt;
   color: #FFF;
@@ -34,6 +33,7 @@
 .right {
   margin-left: 20px;
   display: inline-block;
+  margin-right: 50px;
 }
 
 @media only screen and (max-width: 1140px) {
@@ -41,7 +41,6 @@
       display: block;
     }
     .skills li {
-      font-family: 'Open Sans';
       font-weight: 300;
       font-size: 12pt;
       color: #FFF;

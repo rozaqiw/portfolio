@@ -2,6 +2,11 @@
   font-family: "Agustina";
   src: url(../fonts/Agustina.woff);
 }
+
+.rounded-circle {
+    border-radius: 50%!important;
+    background-color: white;
+
 /*CSS variable declaration for light/dark mode*/
 html[data-theme="light"] {
   --bg-mybtn: red;

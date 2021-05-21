@@ -1,2 +1,2 @@
 # portfolio
- Website Portfolio : https://rozaqiw.github.io/portfolio/
+ Website Portfolio : https://rozaqiw.github.io/

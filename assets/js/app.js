@@ -33,7 +33,7 @@ let footer = $(`
         </p>
           <div class="rounded-social-buttons tag">
             <a class="social-button twitter" href="#" target="_blank"><i class="fab fa-twitter"></i></a>
-            <a class="social-button linkedin" href="#" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a class="social-button linkedin" href="https://www.linkedin.com/in/abdul-rozaqi-w-3196211a6/" target="_blank"><i class="fab fa-linkedin"></i></a>
             <a class="social-button medium" href="#" target="_blank"><i class="fab fa-medium"></i></a>
             <a class="social-button github" href="#" target="_blank"><i class="fab fa-github"></i></a>
           </div>

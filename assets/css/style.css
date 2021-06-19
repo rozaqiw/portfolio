@@ -236,7 +236,8 @@ html {
 
 .footer{
   padding-top: 10px;
-  background-color:#126e82;
+  background-color: #282828;
+	
 }
 
 .tag{
@@ -289,7 +290,7 @@ Rotate Transition in foote Soical Icon
 }
 
 .rounded-social-buttons .social-button.twitter {
-  background: #22B6A7;
+  background-color: rgba(255,255,255,0.11);
 }
 
 /********
@@ -303,7 +304,7 @@ Hover effect in foote Soical Icon
 }
 
 .rounded-social-buttons .social-button.linkedin {
-  background: #22B6A7;
+  background-color: rgba(255,255,255,0.11);
 }
 
 .rounded-social-buttons .social-button.linkedin:hover, .rounded-social-buttons .social-button.linkedin:focus {
@@ -313,7 +314,7 @@ Hover effect in foote Soical Icon
 }
 
 .rounded-social-buttons .social-button.medium {
-  background:  #22B6A7;
+  background-color: rgba(255,255,255,0.11);
 }
 
 .rounded-social-buttons .social-button.medium:hover, .rounded-social-buttons .social-button.medium:focus {
@@ -323,7 +324,7 @@ Hover effect in foote Soical Icon
 }
 
 .rounded-social-buttons .social-button.github {
-  background: #22B6A7;
+  background-color: rgba(255,255,255,0.11);
 }
 
 .rounded-social-buttons .social-button.github:hover, .rounded-social-buttons .social-button.github:focus {

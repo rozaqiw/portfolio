@@ -18,7 +18,7 @@ let header = $(`
    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
    <li class="nav-item"><a class="nav-link" href="experience.html">Experience</a></li>
    <li class="nav-item"><a class="nav-link" href="profile.html">Profile</a></li>
-   <li class="nav-item"><a class="nav-link" href="research.html">Blog</a></li>
+   <li class="nav-item"><a class="nav-link" href="https://rozaqi.medium.com/">Blog</a></li>
    <li class="nav-item"><a class="nav-link" href="education.html">Education</a></li>
   </ul>
 </div>
